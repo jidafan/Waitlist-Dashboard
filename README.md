@@ -1,1 +1,1 @@
-# Waitlist-Dashboard
+# Waitlist Dashboard
