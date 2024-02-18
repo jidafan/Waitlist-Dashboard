@@ -21,3 +21,10 @@ The data contains information on the inpatients and outpatients at a hospital. I
 ![image](https://github.com/jidafan/Waitlist-Dashboard/assets/141703009/257ef617-8cd6-4015-814a-104595a270ce)
 
 The dashboard incorporates two pages with different information. The first page summarizes the information in the inpatient and outpatient datasets. The second page provides a demographic view of the specialties, the length of the admittance and the age profiles of the patients.
+
+## Conclusion
+
+### Next Steps
+
+* Perform analysis in Python 
+* Create more custom measures and see if there are any undiscovered trends.
